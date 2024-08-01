@@ -18,6 +18,10 @@ Welcome to the Interactive Quiz App! This is a simple web-based quiz application
 ## Getting Started
 
 To get started with the Interactive Quiz App:
+## Live Demo
+
+You can view the live version of the quiz application [here](https://skumar1690.github.io/Interactive-Quiz-App/).
+
 
 1. **Clone the Repository**
 
